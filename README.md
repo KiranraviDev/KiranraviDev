@@ -57,10 +57,6 @@ I love solving complex problems, optimizing performance, and shipping products p
 ### 📊 GitHub Stats & Streaks
 
 <div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=KiranraviDev&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=00FFFF&text_color=FFFFFF" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KiranraviDev&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00FFFF&text_color=FFFFFF" />
-
 <br/><br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=KiranraviDev&theme=react&hide_border=true&background=0D1117&stroke=00FFFF&ring=00FFFF&fire=FF00FF&currStreakLabel=00FFFF" />
