@@ -1,91 +1,131 @@
-# 👋 Hi, I’m Kiran Ravi
+<div align="center">
 
-![header](https://img.shields.io/badge/Frontend%20Developer-React-blue?style=flat&logo=react) ![chrome-extension](https://img.shields.io/badge/Chrome%20Extension-MV3-4285F4?style=flat&logo=googlechrome) ![automation](https://img.shields.io/badge/Automation-Browser-6f42c1?style=flat)
+# 👋 Hi, I'm Kiran Ravi
 
-🚀 Frontend Developer • Chrome Extension Engineer (Manifest V3) • Web Automation Specialist  
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=36&pause=1000&color=00FFFF&center=true&vCenter=true&width=800&lines=Frontend+Developer;Chrome+Extension+Engineer;Web+Automation+Specialist;Building+tools+that+save+time+%26+scale" alt="Typing SVG" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/Frontend%20Developer-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/Chrome%20Extension-MV3-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" />
+<img src="https://img.shields.io/badge/Automation-Browser-6f42c1?style=for-the-badge&logo=selenium&logoColor=white" />
+
+<br/><br/>
+
+🚀 **Frontend Developer • Chrome Extension Engineer (Manifest V3) • Web Automation Specialist**  
 📍 India • Open to global collaboration
 
----
-
-## 🧠 About Me
-
-I build high-impact Chrome Extensions and frontend applications that help businesses save time, automate workflows, and scale faster.
-
-With 2+ years of hands-on experience, I specialize in:
-- ⚡ Building production-ready Chrome Extensions (Manifest V3)
-- 🧩 Creating scalable React.js applications
-- 🤖 Automating repetitive workflows using browser automation and DOM scripting
-- 🎯 Designing intuitive UI/UX for real-world users
-
-I enjoy solving complex problems, optimizing performance, and shipping products people use every day.
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+### 🧠 About Me
 
-### Frontend
-- React.js, Next.js
-- JavaScript (ES6+)
-- HTML5, CSS3, Tailwind CSS
-- Redux Toolkit, TanStack Query
+I build **high-impact Chrome Extensions** and **frontend applications** that automate workflows, save time, and help businesses scale faster.
 
-### Chrome Extensions & Automation
-- Chrome Extensions (Manifest V3)
-- Background Scripts, Content Scripts, Service Workers
-- Web Automation, DOM Manipulation
-- Chrome Extension APIs & Message Passing
+With 2+ years of experience, I specialize in:
+- ⚡ Production-ready **Chrome Extensions** (Manifest V3)
+- 🧩 Scalable **React.js** applications
+- 🤖 Browser automation & DOM scripting
+- 🎯 Intuitive UI/UX for real users
 
-### Tools & Platforms
-- Git, GitHub
-- Storybook, Vite, Webpack
-- Firebase
-- REST APIs, GraphQL
-- Testing: Jest, React Testing Library
+I love solving complex problems, optimizing performance, and shipping products people actually use.
 
 ---
 
-## 💼 Experience
+### 🛠️ Tech Stack
 
-### 🚀 Frontend Developer — 10xscale.ai
+#### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=flat&logo=redux&logoColor=white)
+
+#### Chrome Extensions & Automation
+![Manifest V3](https://img.shields.io/badge/Manifest_V3-4285F4?style=flat&logo=googlechrome&logoColor=white)
+![Service Workers](https://img.shields.io/badge/Service_Workers-FF6C37?style=flat&logo=web&logoColor=white)
+![DOM Manipulation](https://img.shields.io/badge/DOM_Manipulation-6f42c1?style=flat)
+
+#### Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white)
+
+---
+
+### 📊 GitHub Stats & Streaks
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=00FFFF&text_color=FFFFFF" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00FFFF&text_color=FFFFFF" />
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=react&hide_border=true&background=0D1117&stroke=00FFFF&ring=00FFFF&fire=FF00FF&currStreakLabel=00FFFF" />
+
+</div>
+
+---
+
+### 💼 Experience
+
+**Frontend Developer — 10xscale.ai**  
 Hyderabad, India • Jan 2024 – Present
 
-- Built Chrome Extensions from scratch for lead generation and automation
-- Developed scalable React.js web applications and integrated them with extensions
-- Automated repetitive user workflows to boost productivity
-- Delivered production-ready features used by real customers
+- Built Chrome Extensions from scratch for lead generation & automation
+- Developed scalable React.js apps integrated with extensions
+- Automated workflows to boost team productivity
+- Shipped production features used by real customers
 
 ---
 
-## 📌 Featured Projects
+### 📌 Featured Projects
 
-> Want these linked, demoed, or expanded into mini case studies — tell me which projects to highlight and I’ll add descriptions, screenshots, and live links.
+- **LeadGen Automator** — Chrome Extension for automated lead scraping & outreach
+- **Workflow Booster** — React dashboard with extension background tasks
+- **AutoForm Filler** — Browser automation toolkit for forms
 
-- LeadGen Automator — Chrome Extension for automated lead scraping & outreach
-- Workflow Booster — React dashboard integrated with extension background tasks
-- AutoForm Filler — Browser automation toolkit for repetitive form filling
-
----
-
-## 🔭 What I’m Working On
-
-- Advanced Chrome Extensions (Manifest V3)
-- Large-scale React applications and component libraries
-- Browser-based automation tools & developer utilities
-- SaaS-focused frontend architectures and developer experience improvements
+*(Add live links/screenshots when ready!)*
 
 ---
 
-## 🤝 Let’s Collaborate
+### 🔭 Currently Working On
 
-I’m open to collaborating on:
+- Advanced Manifest V3 Extensions
+- Large-scale React component libraries
+- Browser automation tools & dev utilities
+- SaaS frontend architectures
+
+---
+
+<div align="center">
+
+### 🐍 My Contribution Snake (Daily Updated Animation)
+
+<img src="./github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="Snake animation dark" />
+<img src="./github-contribution-grid-snake.svg#gh-light-mode-only" alt="Snake animation light" />
+
+</div>
+
+---
+
+### 🤝 Let’s Collaborate
+
+Open to projects in:
 - SaaS products
-- Chrome Extensions (Manifest V3)
-- React.js applications
-- Browser automation & tooling
+- Chrome Extensions (MV3)
+- React.js apps
+- Browser automation
 
-- ✉️ Email: kiranravi.dev@gmail.com  
-- LinkedIn: [linkedin.com/in/kiran-ravi-74baa12a3](https://www.linkedin.com/in/kiran-ravi-74baa12a3)
+✉️ **Email:** kiranravi.dev@gmail.com  
+🔗 **LinkedIn:** [linkedin.com/in/kiran-ravi-74baa12a3](https://www.linkedin.com/in/kiran-ravi-74baa12a3)
 
----
+<br/>
 
-⭐ “Build tools that save time. Ship products that matter.”
+<div align="center">
+
+⭐ **“Build tools that save time. Ship products that matter.”**
+
+</div>
