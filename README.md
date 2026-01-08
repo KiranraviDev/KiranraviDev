@@ -101,12 +101,9 @@ Hyderabad, India • Jan 2024 – Present
 ---
 
 <div align="center">
-
 ### 🐍 My Contribution Snake (Daily Updated Animation)
-
-<img src="./github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="Snake animation dark" />
-<img src="./github-contribution-grid-snake.svg#gh-light-mode-only" alt="Snake animation light" />
-
+<img src="https://raw.githubusercontent.com/KiranraviDev/KiranraviDev/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="Snake animation dark" />
+<img src="https://raw.githubusercontent.com/KiranraviDev/KiranraviDev/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="Snake animation light" />
 </div>
 
 ---
