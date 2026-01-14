@@ -56,19 +56,7 @@ Frontend Engineer with 2+ years of experience leading and shipping production-le
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=flat&logo=visual-studio-code&logoColor=white)
 
 ---
-### 📊 GitHub Stats & Streaks
-<div align="center">
 
-> **Note:** GitHub Stats cards are temporarily down due to public service outage (common rate-limit issue). They usually recover soon. For reliability, self-host on Vercel: [github.com/anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=KiranraviDev&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=00FFFF&text_color=FFFFFF" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KiranraviDev&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00FFFF&text_color=FFFFFF" />
-<br/><br/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=KiranraviDev&theme=react&hide_border=true&background=0D1117&stroke=00FFFF&ring=00FFFF&fire=FF00FF&currStreakLabel=00FFFF" />
-
-</div>
-
----
 ### 💼 Professional Experience
 **Frontend Engineer / Team Lead — 10Xscale**  
 Dharapuram, Tamilnadu, India • Jan 2024 – Jan 2026
